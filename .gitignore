@@ -1,6 +1,7 @@
 
 *.out
-./DataStructs/llist.c
-./Permutations
-./Tests
-./Sorts/BenchMarks
+DataStructs/llist.c
+Permutations
+Tests
+Sorts/BenchMarks
+Sorts/merge.c
